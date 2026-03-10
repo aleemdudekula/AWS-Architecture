@@ -1,7 +1,7 @@
 Here’s a clean GitHub-ready aws-architecture-flow.md Markdown file based on your content. You can paste this directly into a repo.
 
 # AWS Web Architecture – Step-by-Step Flow
-<img width="671" height="771" alt="image" src="https://github.com/user-attachments/assets/396536d8-c567-4e10-b5a5-7c10db26c4fb" />
+<img width="611" height="481" alt="image" src="https://github.com/user-attachments/assets/3e09691c-4450-4434-8fd9-446e649dce61" />
 
 ## 1. User enters domain
 
